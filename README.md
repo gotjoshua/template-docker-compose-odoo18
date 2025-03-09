@@ -8,6 +8,11 @@ Click the button below to start a new development environment:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/meteorsnows/template-docker-compose-odoo18)
 
+After gitpod spins up you can click the [open browser] button to preview the app:
+
+![image](https://github.com/user-attachments/assets/e0bd3fb7-40af-49d9-add1-a5d8d01e7852)
+
+
 ## Get Started With Your Own Project
 
 ### A new project
